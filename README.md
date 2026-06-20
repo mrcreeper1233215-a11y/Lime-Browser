@@ -4,7 +4,7 @@ It's a browser. It has tabs. It closes when you want it to. It saves your login 
 
 ## Specs
 - Actually works? Maybe.
-- Had no Bloatware (because i cant code it)
+- Has no Bloatware (because i cant code it)
 ## How to use
 Just run the .exe and pray it works lol. Btw u can als click space to open a new tab
 
