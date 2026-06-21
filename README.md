@@ -6,7 +6,7 @@ It's a browser. It has tabs. It closes when you want it to. It saves your login 
 - Actually works? Maybe.
 - Has no Bloatware (because i cant code it)
 ## How to use
-Just run the .exe and pray it works lol. Btw u can als click space to open a new tab
+Just extract the .zip and run the .exe and pray it works lol. Btw u can als click space to open a new tab
 
 ## Credits
 - Me, myself and I.
